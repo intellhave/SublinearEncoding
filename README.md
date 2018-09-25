@@ -11,6 +11,6 @@ https://www.dropbox.com/s/ylmwak1ncfhvnxo/data.zip?dl=0
 
 * Extracted data.zip into the folder named "data" located at the working directory.
 
-* Run 'python demo.py'
+* Run `python demo.py`
 
 
