@@ -1,7 +1,8 @@
 #Introduction 
 
 This is the demo code for the method described in the following paper:
-Huu Le, Michael Miford, "Large-scalve Visual Place Recognition with Sub-linear Storage Growth"
+
+* Huu Le, Michael Miford, "Large-scalve Visual Place Recognition with Sub-linear Storage Growth"
 
 # Instructions
 
